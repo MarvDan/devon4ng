@@ -1,0 +1,6 @@
+name: devon4ng
+title: Devon4ng
+version: '1.0'
+start_page: devon4ng::home.adoc
+nav:
+- modules/ROOT/nav.adoc
